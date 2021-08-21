@@ -395,13 +395,9 @@ h6 { font-size: 16px;}
 
 .logo-wrapper{
 	display: grid;
-	grid-template-columns: repeat(auto-fit, 300px);
+	grid-template-columns: repeat(auto-fit, 320px);
 	gap: 50px;
 	justify-content: center;
-}
-
-.pic-post{
-	padding: 10px;
 }
 
 .logo-thumbnail{
